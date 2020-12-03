@@ -54,9 +54,9 @@ Node * inOrderSuccessor(Node *root, Node *x)
       return succ;
 }
 
-Complexity Analysis: 
+// Complexity Analysis: 
 
-Time Complexity: O(h), where h is the height of the tree. 
-In the worst case as explained above we travel the whole height of the tree
-Auxiliary Space: O(1). 
-Due to no use of any data structure for storing values.
+// Time Complexity: O(h), where h is the height of the tree. 
+// In the worst case as explained above we travel the whole height of the tree
+// Auxiliary Space: O(1). 
+// Due to no use of any data structure for storing values.
